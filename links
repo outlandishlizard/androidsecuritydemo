@@ -1,0 +1,9 @@
+http://blog.palominolabs.com/2013/05/13/android-security/
+
+http://www.cs.berkeley.edu/~emc/slides/SevenWaysToHangYourselfWithGoogleAndroid.pdf
+^This one is a nice summary of the kinds of threats we should look
+for, but a bit skimpy on detail sometimes^
+
+http://www.eecs.berkeley.edu/~daw/papers/intents-mobisys11.pdf
+
+http://developer.android.com/training/articles/security-tips.html
